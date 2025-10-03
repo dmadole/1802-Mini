@@ -15,6 +15,10 @@ https://github.com/dmadole/1802-Mini-Expander-RTC
 https://github.com/dmadole/1802-Mini-Backplane  
 https://github.com/dmadole/1802-Mini-Pixie-Video `NEW`
 
+For latest firmware images including the Mini/DOS operating system, see here:
+
+https://github.com/dmadole/MiniROM-image  
+
 If you have any questons on the project, please contact me. I can also usually supply single quantities of circuit boards, as well as complete kits. For kit information please see here:
 
 http://madole.net/1802/mini/kits/
