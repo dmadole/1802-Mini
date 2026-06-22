@@ -13,7 +13,7 @@ https://github.com/dmadole/1802-Mini-9918-Video
 https://github.com/dmadole/1802-Mini-Super-Elf-Bus  
 https://github.com/dmadole/1802-Mini-Expander-RTC  
 https://github.com/dmadole/1802-Mini-Backplane  
-https://github.com/dmadole/1802-Mini-Pixie-Video
+https://github.com/dmadole/1802-Mini-Pixie-Video  
 https://github.com/dmadole/1802-Mini-Floppy-Disk `NEW`
 
 For latest firmware images including the Mini/DOS operating system, see here:
